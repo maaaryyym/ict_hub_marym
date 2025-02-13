@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080323308061",
+    "project_id": "marym-test",
+    "storage_bucket": "marym-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080323308061:android:fd8fd4ef365b43447824f4",
+        "android_client_info": {
+          "package_name": "com.example.ict_hub_marym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxA283eEWXqwfuGe-btpZuUyxFLBgBMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
